@@ -1,0 +1,10 @@
+[submodule "StepManiaEditor/MonoGame"]
+	path = StepManiaEditor/MonoGame
+	url = https://github.com/PerryAsleep/MonoGame.git
+	branch = fumen
+[submodule "StepManiaLibrary"]
+	path = StepManiaLibrary
+	url = https://github.com/PerryAsleep/StepManiaLibrary
+[submodule "ImGui.NET"]
+	path = ImGui.NET
+	url = https://github.com/PerryAsleep/ImGui.NET.git
